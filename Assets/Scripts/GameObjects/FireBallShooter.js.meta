@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 444fb5401f2b2ff40b30675c999ddb42
+timeCreated: 1455953247
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - buleetprefab: {fileID: 453582, guid: 3e9886057d686b448b31b1284e50cce9, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

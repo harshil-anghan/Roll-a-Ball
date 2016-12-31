@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - pickup_green
+  - pickup_red
+  - speeder
+  - enemy
+  - LaserGrid
+  - increasehealth
+  - FireBall
+  - enemybody
+  - TFireBall
+  - EFireBall
+  - AtomBall
+  - WoodBall
+  - MetalBall
+  - Spikes
+  - YellowGrid
+  - OrangeGrid
+  - Spring
+  - deathground
+  - pushing_cylinder
+  - joystick
+  - checkpoint
+  - checkpoint1
+  - Final
+  - wheel_ball
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Floor
+  - Shootable
+  - LightMask
+  - Invisible
+  - TouchControl
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

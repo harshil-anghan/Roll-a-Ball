@@ -1,0 +1,35 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\PlayerRelated\BPlayerMover.cs">
+    <Files>
+      <File FileName="Assets\Scripts\PlayerRelated\PlayerMover.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Destroy\DestroyFireBall.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\PlayerRelated\BPlayerMover.cs" Line="103" Column="124" />
+      <File FileName="Assets\Scripts\CameraJoyStick.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Model_Selector.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Stage2\wheel_mover_rotator.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Stage2\rotatecyclinderfast2.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Stage2\SwipeManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Camera\BPlayerFollow.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Character_Selector.cs" Line="1" Column="1" />
+      <File FileName="Assets\Standard Assets\Utility\SmoothFollow.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\GameObjects\LaserGrids\OrangeGrid.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\GameObjects\LaserGrids\YellowGrid.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Enemy\enemyshoot.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\GameObjects\Turret\TurretShoot2.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\GameObjects\FireBallShooter_C.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\GameObjects\LaserGrids\LaserGrid.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\GameObjects\SpikeMover.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\GameObjects\RotateOnBlock.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\GameObjects\LifeFlipperReverse.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\PlayerRelated\Shoot.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Health\Health.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Stage2\spike.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\GameObjects\Turret\TurretShoot.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

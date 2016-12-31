@@ -1,4 +1,0 @@
-sceneSetups:
-- path: Assets/Scene/Second_Stage.unity
-  isLoaded: 1
-  isActive: 1
